@@ -1,16 +1,25 @@
-## Hi there 👋
+<!-- Visibility: public -->
 
-<!--
-**isolationVault/isolationVault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# isolationVault
 
-Here are some ideas to get you started:
+Privacy-first guides for browser isolation, local AI and hardening older Windows PCs. Simple, tested, open.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What this is
+
+Step-by-step guides written for people running older hardware, including Windows 10 IoT Enterprise LTSC. Every guide carries a status stamp: Tested on a named build and date, or Draft. Test on your own setup first and keep backups.
+
+## Repositories
+
+| Repo | Purpose |
+|------|---------|
+| [guides](https://github.com/isolationVault/guides) | Browser isolation, sandboxing and hardening guides (work in progress) |
+
+More repositories, such as a wiki and local AI notes, will be added as content is ready.
+
+## Status
+
+Early scaffold. No finished guides are published yet. Issues and pull requests are not being accepted for now.
+
+## License
+
+MIT. Each repository has its own LICENSE file.
